@@ -1,0 +1,11 @@
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.AssemblyReference.cache
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\obj\Debug\ImageViewer.FormViewer.resources
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.cache
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
+C:\Users\elmuroddev\source\repos\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb
